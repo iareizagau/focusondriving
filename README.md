@@ -12,6 +12,7 @@ Probaremos algunas arquitecturas de redes neuronales, todas ellas mejoradas con 
 
 ## Conjunto de Imágenes
 El conjunto de imágenes que hemos utilizado en el marco de este proyecto proviene de un concurso lanzado en la plataforma Kaggle hace aproximadamente 5 años: 
+
 https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview 
 
 dataset|origen|
