@@ -35,9 +35,12 @@ Código para generar los modelos.
 functions.py --> funciones que se utilizan en el FocusOnDriving.ipynb
 Hay que introducir el número de modelo que se quiere entrenar
 
-`Link github` | [github FocusOnDriving](src/FocusOnDriving.ipynb)
+![github](https://unpkg.com/simple-icons@v5/icons/github.svg=250x250) 
 
-`Link colab` | [colab FocusOnDriving](https://drive.google.com/file/d/1wNNjzBxPvk3HYsEgbV1qpDMqQspYOeev/view?usp=sharing)
+[github FocusOnDriving](src/FocusOnDriving.ipynb)
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wNNjzBxPvk3HYsEgbV1qpDMqQspYOeev/view?usp=sharing) FocusOnDriving
+
 
 ## Modelos
 
@@ -47,7 +50,7 @@ Código para comparar los modelos generados generando la matriz de confusión de
 
 `Link github` | [github FocusOnDriving_compare_models](src/FocusOnDriving_compare_models.ipynb)
 
-`Link colab` | [colab FocusOnDriving_compare_models](https://drive.google.com/file/d/1OXQD5zmMa_R9s1ingGrJvwweEzOYqZdz/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OXQD5zmMa_R9s1ingGrJvwweEzOYqZdz/view?usp=sharing) FocusOnDriving_compare_models
 
 
 
@@ -56,7 +59,7 @@ Código para testear imágenes uno a uno con los modelos creados. Escribe sobre 
 
 `Link github` | [github model_test](src/model_test.ipynb)
 
-`Link colab` | [colab model_test](https://drive.google.com/file/d/1kfirHWrVY9C0_HglZUK8B_79PUyIyQ6l/view?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kfirHWrVY9C0_HglZUK8B_79PUyIyQ6l/view?usp=sharing) model_test
 
 # Resultados
 ## Comparación de los modelos
