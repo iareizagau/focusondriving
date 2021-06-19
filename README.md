@@ -35,9 +35,7 @@ Código para generar los modelos.
 functions.py --> funciones que se utilizan en el FocusOnDriving.ipynb
 Hay que introducir el número de modelo que se quiere entrenar
 
-`Link github` | [github FocusOnDriving](src/FocusOnDriving.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wNNjzBxPvk3HYsEgbV1qpDMqQspYOeev/view?usp=sharing) FocusOnDriving
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wNNjzBxPvk3HYsEgbV1qpDMqQspYOeev/view?usp=sharing) [github FocusOnDriving](src/FocusOnDriving.ipynb) 
 
 
 ## Modelos
@@ -46,18 +44,14 @@ Hay que introducir el número de modelo que se quiere entrenar
 # FocusOnDriving_compare_models.ipynb
 Código para comparar los modelos generados generando la matriz de confusión de cada modelo.
 
-`Link github` | [FocusOnDriving_compare_models](src/FocusOnDriving_compare_models.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OXQD5zmMa_R9s1ingGrJvwweEzOYqZdz/view?usp=sharing) FocusOnDriving_compare_models
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OXQD5zmMa_R9s1ingGrJvwweEzOYqZdz/view?usp=sharing) [FocusOnDriving_compare_models](src/FocusOnDriving_compare_models.ipynb)
 
 
 
 # model_test.ipynb
 Código para testear imágenes uno a uno con los modelos creados. Escribe sobre la imagen la etiqueta y el resultado del modelo y guarda las imágenes. Genera un gif para visualizar el resultado.
 
-`Link github` | [github model_test](src/model_test.ipynb)
-
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kfirHWrVY9C0_HglZUK8B_79PUyIyQ6l/view?usp=sharing) model_test
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1kfirHWrVY9C0_HglZUK8B_79PUyIyQ6l/view?usp=sharing) [github model_test](src/model_test.ipynb)
 
 # Resultados
 ## Comparación de los modelos
