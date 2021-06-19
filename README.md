@@ -18,7 +18,7 @@ https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview
 dataset|origen|
 |-------|------|
 | Train |[kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection/data?select=imgs)|
-| Test  |[github](https://drive.google.com/drive/folders/1Me6BfHUGM4JRzmKc4FnlmaYB5Kbs73gc?usp=sharing)|
+| Test  |[drive](https://drive.google.com/drive/folders/1Me6BfHUGM4JRzmKc4FnlmaYB5Kbs73gc?usp=sharing) [github](src/img/test)|
 
 
 Total de 22.424 imágenes, clasificadas en 10 categorías:
