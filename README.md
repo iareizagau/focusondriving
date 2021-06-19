@@ -35,9 +35,7 @@ Código para generar los modelos.
 functions.py --> funciones que se utilizan en el FocusOnDriving.ipynb
 Hay que introducir el número de modelo que se quiere entrenar
 
-![github](https://unpkg.com/simple-icons@v5/icons/github.svg=250x250) 
-
-[github FocusOnDriving](src/FocusOnDriving.ipynb)
+`Link github` | [github FocusOnDriving](src/FocusOnDriving.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1wNNjzBxPvk3HYsEgbV1qpDMqQspYOeev/view?usp=sharing) FocusOnDriving
 
@@ -48,7 +46,7 @@ Hay que introducir el número de modelo que se quiere entrenar
 # FocusOnDriving_compare_models.ipynb
 Código para comparar los modelos generados generando la matriz de confusión de cada modelo.
 
-`Link github` | [github FocusOnDriving_compare_models](src/FocusOnDriving_compare_models.ipynb)
+`Link github` | [FocusOnDriving_compare_models](src/FocusOnDriving_compare_models.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1OXQD5zmMa_R9s1ingGrJvwweEzOYqZdz/view?usp=sharing) FocusOnDriving_compare_models
 
