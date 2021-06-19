@@ -11,7 +11,8 @@ Para ello, trabajaremos con una técnica de Machine Learning conocida como “Re
 Probaremos algunas arquitecturas de redes neuronales, todas ellas mejoradas con redes pre-entrenadas para la clasificación de imágenes (transfer learning).
 
 ## Conjunto de Imágenes
-El conjunto de imágenes que hemos utilizado en el marco de este proyecto proviene de un concurso lanzado en la plataforma Kaggle hace aproximadamente 5 años: https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview 
+El conjunto de imágenes que hemos utilizado en el marco de este proyecto proviene de un concurso lanzado en la plataforma Kaggle hace aproximadamente 5 años: 
+https://www.kaggle.com/c/state-farm-distracted-driver-detection/overview 
 
 dataset|origen|
 |-------|------|
