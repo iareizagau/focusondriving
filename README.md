@@ -4,10 +4,15 @@
 |---------------------------------------------|----------|------------|
 |  ![saturdays](doc/saturdaysai_donosti.png)  | FOCUS ON DRIVING SATURDAYS.AI DONOSTIA 2ª EDICIÓN – JUNIO 2021 |![logo](doc/logo_focusondriving.PNG)|
 
+# Saturdays.ai
+
+AI Saturdays es un movimiento comunitario y global, comprometido a promover la educación en Inteligencia Artificial a través de contenido de calidad y el rigor de las mejores universidades.
+En resumen, una forma de hacer que esta tecnología sea accesible para todos a través del desarrollo de proyectos con impacto social.
+
 # Equipo: Henry Corazza e Imanol Areizaga
 ## Objetivo
 El objetivo de este proyecto es ajustar un modelo de Deep Learning capaz de identificar y clasificar las diferentes distracciones a que estamos expuestos siempre que conducimos.
-Para ello, trabajaremos con una técnica de Machine Learning conocida como “Redes Neuronales Convolucionales” (CNN o Convolutional Neural Network).
+Para ello, trabajaremos con una técnica de Deep Learning conocida como “Redes Neuronales Convolucionales” (CNN o Convolutional Neural Network).
 Probaremos algunas arquitecturas de redes neuronales, todas ellas mejoradas con redes pre-entrenadas para la clasificación de imágenes (transfer learning).
 
 ## Conjunto de Imágenes
@@ -42,6 +47,7 @@ Hay que introducir el número de modelo que se quiere entrenar
 
 ## Modelos
 
+![tabla_modelos](doc/tabla_modelos.jpeg)
 
 # FocusOnDriving_compare_models.ipynb
 Código para comparar los modelos generados generando la matriz de confusión de cada modelo.
