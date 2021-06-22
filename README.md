@@ -2,7 +2,7 @@
 
 |  |  | |
 |---------------------------------------------|----------|------------|
-|  ![saturdays](doc/saturdaysai_donosti.png)  | FOCUS ON DRIVING - SATURDAYS.AI DONOSTIA 2ª EDICIÓN – JUNIO 2021 |![logo](doc/logo_focusondriving.PNG)|
+|  ![saturdays](doc/saturdaysai_donosti.png)  | FOCUS ON DRIVING - SATURDAYS.AI DONOSTIA - 2ª EDICIÓN – JUNIO 2021 |![logo](doc/logo_focusondriving.PNG)|
 
 # Saturdays.AI
 
