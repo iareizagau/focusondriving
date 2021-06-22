@@ -6,7 +6,7 @@
 
 # Saturdays.AI
 
-AI Saturdays es un movimiento comunitario y global, comprometido a promover la educación en Inteligencia Artificial a través de contenido de calidad y el rigor de las mejores universidades.
+Saturdays.AI es un movimiento comunitario y global, comprometido a promover la educación en Inteligencia Artificial a través de contenido de calidad y el rigor de las mejores universidades.
 En resumen, una forma de hacer que esta tecnología sea accesible para todos a través del desarrollo de proyectos con impacto social.
 
 # Equipo: Henry Corazza e Imanol Areizaga
