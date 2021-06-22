@@ -2,9 +2,9 @@
 
 |  |  | |
 |---------------------------------------------|----------|------------|
-|  ![saturdays](doc/saturdaysai_donosti.png)  | FOCUS ON DRIVING SATURDAYS.AI DONOSTIA 2ª EDICIÓN – JUNIO 2021 |![logo](doc/logo_focusondriving.PNG)|
+|  ![saturdays](doc/saturdaysai_donosti.png)  | FOCUS ON DRIVING - SATURDAYS.AI DONOSTIA 2ª EDICIÓN – JUNIO 2021 |![logo](doc/logo_focusondriving.PNG)|
 
-# Saturdays.ai
+# Saturdays.AI
 
 AI Saturdays es un movimiento comunitario y global, comprometido a promover la educación en Inteligencia Artificial a través de contenido de calidad y el rigor de las mejores universidades.
 En resumen, una forma de hacer que esta tecnología sea accesible para todos a través del desarrollo de proyectos con impacto social.
@@ -12,7 +12,7 @@ En resumen, una forma de hacer que esta tecnología sea accesible para todos a t
 # Equipo: Henry Corazza e Imanol Areizaga
 ## Objetivo
 El objetivo de este proyecto es ajustar un modelo de Deep Learning capaz de identificar y clasificar las diferentes distracciones a que estamos expuestos siempre que conducimos.
-Para ello, trabajaremos con una técnica de Deep Learning conocida como “Redes Neuronales Convolucionales” (CNN o Convolutional Neural Network).
+Para ello, trabajaremos con una técnica conocida como “Redes Neuronales Convolucionales” (CNN o Convolutional Neural Network).
 Probaremos algunas arquitecturas de redes neuronales, todas ellas mejoradas con redes pre-entrenadas para la clasificación de imágenes (transfer learning).
 
 ## Conjunto de Imágenes
@@ -50,14 +50,14 @@ Hay que introducir el número de modelo que se quiere entrenar
 ![tabla_modelos](doc/tabla_modelos.jpeg)
 
 # FocusOnDriving_compare_models.ipynb
-Código para comparar los modelos generados generando la matriz de confusión de cada modelo.
+Código para comparar los modelos ajustados. Genera la matriz de confusión de cada modelo.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iareizagau/focusondriving/blob/main/src/FocusOnDriving_compare_models.ipynb) [FocusOnDriving_compare_models](src/FocusOnDriving_compare_models.ipynb)
 
 
 
 # model_test.ipynb
-Código para testear imágenes uno a uno con los modelos creados. Escribe sobre la imagen la etiqueta y el resultado del modelo y guarda las imágenes. Genera un gif para visualizar el resultado.
+Código para testear imágenes una a una con los modelos creados. Escribe sobre la imagen la etiqueta y el resultado del modelo y guarda las imágenes. Genera un gif para visualizar el resultado.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iareizagau/focusondriving/blob/main/src/model_test.ipynb) [github model_test](src/model_test.ipynb)
 
